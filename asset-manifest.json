@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/movie.git/static/js/main.aead83eb.js",
-    "index.html": "/movie.git/index.html",
-    "main.aead83eb.js.map": "/movie.git/static/js/main.aead83eb.js.map"
+    "main.js": "/movie/static/js/main.f8c8822e.js",
+    "index.html": "/movie/index.html",
+    "main.f8c8822e.js.map": "/movie/static/js/main.f8c8822e.js.map"
   },
   "entrypoints": [
-    "static/js/main.aead83eb.js"
+    "static/js/main.f8c8822e.js"
   ]
 }
