@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie.git/static/js/main.aead83eb.js",
+    "index.html": "/movie.git/index.html",
+    "main.aead83eb.js.map": "/movie.git/static/js/main.aead83eb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aead83eb.js"
+  ]
+}
